@@ -58,7 +58,7 @@
     "jsbn": "0.0.0",
     "node-cryptojs-aes": "git+https://github.com/enricostara/node-cryptojs-aes.git",
     "requirish": "latest",
-    "telegram-tl-node": "latest"
+    "telegram-tl-node": "https://github.com/Arthi-cc/telegram-tl-node.git"
   },
   "description": "Telegram MTProto library",
   "devDependencies": {
